@@ -1,0 +1,15 @@
+{
+  "name": "curso-typescript-coder",
+  "version": "1.0.0",
+  "description": "curso de typescript da plataforma coder",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
